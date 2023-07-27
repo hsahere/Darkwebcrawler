@@ -5,6 +5,7 @@ Dark web crawler with embedded database to store urls in file
 Installation :
 Use the package manager pip to install requirements
 
+cd Darwkwebcrawler
 python3 dark.py
 Fulfill all the requirements by 
 using this command pip3 install 
